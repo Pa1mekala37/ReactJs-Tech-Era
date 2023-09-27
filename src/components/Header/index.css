@@ -1,0 +1,11 @@
+.navHeader {
+  background-color: #f1f5f9;
+}
+
+.websiteLogo {
+  height: 80px;
+  width: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+}

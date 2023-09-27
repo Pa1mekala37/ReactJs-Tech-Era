@@ -1,0 +1,27 @@
+.notFoundCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFoundImage {
+  margin-bottom: 15px;
+  margin-top: 50px;
+  width: 450px;
+}
+
+.notFoundHeading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: -10px;
+}
+
+.notFoundInfo {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+}
